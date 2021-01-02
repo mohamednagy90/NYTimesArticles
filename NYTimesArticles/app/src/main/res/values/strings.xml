@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NY Times Articles</string>
+    <string name="popularArticles">Most Popular Articles</string>
+    <string name="requestError">Error, try again later.</string>
+    <string name="somthingWrong">Somthing went wrong, please try again.</string>
+    <string name="mostPopularArticles">Most Popular Articles</string>
+    <string name="today">Today</string>
+    <string name="week">Week</string>
+    <string name="month">Month</string>
+    <string name="moreDetails">More Details</string>
+</resources>
